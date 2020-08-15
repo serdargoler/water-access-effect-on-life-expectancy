@@ -1,2 +1,2 @@
 # water-access-effect-on-life-expectancy
-In this case, I am going to look at the strength of the correlation between ‘accessed to improved water sources’ and ‘life expectancy at birth’. Therefore, I have searched data sources and found ‘life expectancy 2014 dataset’, in https://www.kaggle.com/kacperk77/life-expectancy
+I have analyzed whether access to water affects the life expectancy at birth by using linear regression, according to the development levels of the countries. I have observed which countries are outlier base on their level of development, which regions have the least access to water, and how this affects their life expectancy at birth.
